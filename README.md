@@ -11,7 +11,7 @@ I care about thoughtful design, maintainable code, and smooth user experiences.
 ### Back-end
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
 
-### Workflow
+### Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
 
 🧠 Always learning, always improving.
