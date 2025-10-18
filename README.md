@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sabyrzhan
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> Hey, I'm Sabyrzhan
 
 Front-end developer focused on creating clean, fast, and elegant interfaces.  
 I care about thoughtful design, maintainable code, and smooth user experiences.
